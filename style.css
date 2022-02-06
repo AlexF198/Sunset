@@ -62,7 +62,7 @@ filter: blur(3px);
   color: #fff;
 }
 #razr_block {
-  padding: 70px 0 60px;
+  padding:70px 0 60px;
 }
 .tarifs_link {
   height: 360px;
@@ -361,7 +361,7 @@ filter: blur(3px);
 
 .team_title{
   margin-top: 60px;
-  margin-botton:20px;
+  margin-bottom:20px;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
@@ -1050,6 +1050,10 @@ footer{
     right: 64px;
   }
 
+  .slick-slide{
+  padding-top:0px;
+  }
+    
   .rewiews_block{
     padding: 66px 0 66px 68px;
   }
