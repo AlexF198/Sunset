@@ -14,7 +14,7 @@ header {
 #header_section {
   position: relative;
  z-index: 1;
-  background: url(pictures/druplicon.svg) no-repeat left top;
+  background: url(picture/druplicon.svg) no-repeat left top;
   background-color: rgba(0,0,0,.8);
   padding-bottom: 60px;
 }
@@ -185,7 +185,7 @@ filter: blur(3px);
 #blk_back {
   position: relative;
   z-index: 2;
-  background: url(pictures/drupal-logo-2.svg) no-repeat right bottom; 
+  background: url(picture/drupal-logo-2.svg) no-repeat right bottom; 
 }
 #blk_txt {
   color: #050c33;
@@ -307,7 +307,7 @@ filter: blur(3px);
 }
 #tarifs_bg {
  height: 900px;
-  background: url(pictures/D-background-opacity.svg) no-repeat right top;
+  background: url(picture/D-background-opacity.svg) no-repeat right top;
 }
 #tarifs_blocks {
   padding-top: 160px;
@@ -473,7 +473,7 @@ filter: blur(3px);
 .rewiews{
   margin-top:30px ;
   margin-bottom:60px ;
-  background: url(pictures/rewiews_background.svg) no-repeat left top;
+  background: url(picture/rewiews_background.svg) no-repeat left top;
   background-position: 0px 40px;
   background-size: 26%;
 }
@@ -575,13 +575,13 @@ filter: blur(3px);
 
  .rewiews_slider .slick-arrow.slick-next {
     content: '';
-    background: url(pictures/rewiews_slider_arrow-right.svg) no-repeat center;
+    background: url(picture/rewiews_slider_arrow-right.svg) no-repeat center;
     background-size: contain;
 }
 
  .rewiews_slider .slick-arrow.slick-prev {
     content: '';
-    background: url(pictures/rewiews_slider_arrow-left.svg) no-repeat center;
+    background: url(picture/rewiews_slider_arrow-left.svg) no-repeat center;
     background-size: contain;
 }
 
@@ -702,7 +702,7 @@ filter: blur(3px);
 footer{
   margin-top: 45px;
   background: linear-gradient(
-254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),url(pictures/footer1.svg) no-repeat top center,url(pictures/footer2.svg) no-repeat bottom right,#040613;
+254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),url(picture/footer1.svg) no-repeat top center,url(picture/footer2.svg) no-repeat bottom right,#040613;
   color: #fff;
   background-size: cover,165px,140px;
 }
@@ -956,7 +956,7 @@ footer{
 
   #tarifs_bg {
   height: 2250px;
-  background: url(pictures/D-background-opacity.svg) no-repeat right top;
+  background: url(picture/D-background-opacity.svg) no-repeat right top;
   background-size: auto, auto;
   }
 
@@ -1029,7 +1029,7 @@ footer{
   .rewiews{
     margin-top:30px ;
     margin-bottom:60px ;
-    background: url(pictures/rewiews_background.svg) no-repeat left top;
+    background: url(picture/rewiews_background.svg) no-repeat left top;
     background-position: 0px 40px;
     background-size: 26%;
   }
@@ -1107,7 +1107,7 @@ footer{
   footer{
     margin-top: 45px;
     background: linear-gradient(
-    254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),url(pictures/footer1.svg) no-repeat top center,url(pictures/footer2.svg) no-repeat bottom right,#040613;
+    254.72deg,rgba(255,255,255,.276) -114.85%,rgba(255,255,255,0) 69.04%),url(picture/footer1.svg) no-repeat top center,url(picture/footer2.svg) no-repeat bottom right,#040613;
     color: #fff;
     background-size: cover,15%,15%;
   }
